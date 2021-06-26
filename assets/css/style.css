@@ -71,7 +71,7 @@ section {
 }
 
 /* Hero Style Start */
-.hero {
+.hero-cta {
   background-image: url('../images/hero-bg.jpg');
   height: 600px;
   background-size: cover;
@@ -236,12 +236,12 @@ section {
   color: #fce138;
 }
 
-.contact-info iframe {
+.contact-form iframe {
   width: 400px;
   height: 400px;
 }
 
-.contact-info div {
+.contact-form div {
   width: 410px;
   display: inline-block;
   vertical-align: top;
@@ -250,20 +250,20 @@ section {
   color: white;
 }
 
-.contact-info h3 {
+.contact-form h3 {
   color: #fce138;
   font-size: 32px;
 }
 
-.contact-info p,
-.contact-info address {
+.contact-form p,
+.contact-form address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
   font-style: normal;
 }
 
-.contact-info a {
+.contact-form a {
   color: #fce138;
 }
 
